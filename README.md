@@ -1,4 +1,6 @@
-vim-is-hard-lessons
+"Vim – Это сложно"
 ===================
 
-"Vim is hard" lessons
+Урок 3
+___________________
+[Презентация](http://www.slideshare.net/Andrew8xx8/vim-27463342)
