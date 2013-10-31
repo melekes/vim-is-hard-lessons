@@ -1,0 +1,3 @@
+class Banker
+  # implementation
+end
