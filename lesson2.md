@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Vim. Первые шаги](https://www.dropbox.com/s/dbea75kgjfxyizc/Vim.%20First%20steps.pdf)
+[Vim. Первые шаги](https://www.dropbox.com/s/lw6sfq71voa59j1/Vim.%20First%20steps.pdf)
 
 ## Практикум
 
