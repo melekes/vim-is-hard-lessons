@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Учимся ходить | Часть 3](https://www.dropbox.com/s/0zsykh58kffilts/%D0%A3%D1%87%D0%B8%D0%BC%D1%81%D1%8F%20%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%7C%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%203.pdf)
+[Учимся ходить | Часть 3](https://www.dropbox.com/s/pf3w69yrk0xzp78/%D0%A3%D1%87%D0%B8%D0%BC%D1%81%D1%8F%20%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%7C%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%203.pdf?dl=0)
 
 ## Практикум
 
