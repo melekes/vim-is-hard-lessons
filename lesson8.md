@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Урок №1. Создаем свой мир](https://www.dropbox.com/s/xuecr3qexmw08cw/You%20Own%20World.pdf)
+[Урок №1. Создаем свой мир](https://www.dropbox.com/s/ujst243zbol926x/You%20Own%20World.pdf?dl=0)
 
 ## Практикум
 
