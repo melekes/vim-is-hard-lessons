@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Понимаем, что все уже позади](https://www.dropbox.com/s/0476levoa87r7m3/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC%2C%20%D1%87%D1%82%D0%BE%20%D0%B2%D1%81%D0%B5%20%D1%83%D0%B6%D0%B5%20%D0%BF%D0%BE%D0%B7%D0%B0%D0%B4%D0%B8.pdf)
+[Понимаем, что все уже позади](https://www.dropbox.com/s/d2ty58zdzajo8gq/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC%2C%20%D1%87%D1%82%D0%BE%20%D0%B2%D1%81%D0%B5%20%D1%83%D0%B6%D0%B5%20%D0%BF%D0%BE%D0%B7%D0%B0%D0%B4%D0%B8.pdf?dl=0)
 
 ## Практикум
 
