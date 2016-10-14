@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Урок №1. Почему Vim?](lesson1.pdf)
+[Урок №1. Почему Vim?](presentations/lesson1.pdf)
 
 ## Практикум
 

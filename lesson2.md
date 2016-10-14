@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Vim. Первые шаги](lesson2.pdf)
+[Vim. Первые шаги](presentations/lesson2.pdf)
 
 ## Практикум
 
