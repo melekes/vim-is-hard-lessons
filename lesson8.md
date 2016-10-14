@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Урок №8. Создаем свой мир](https://www.dropbox.com/s/ujst243zbol926x/You%20Own%20World.pdf?dl=0)
+[Урок №8. Создаем свой мир](lesson8.pdf)
 
 ## Практикум
 

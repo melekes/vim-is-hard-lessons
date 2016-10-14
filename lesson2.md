@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Vim. Первые шаги](https://www.dropbox.com/s/lw6sfq71voa59j1/Vim.%20First%20steps.pdf)
+[Vim. Первые шаги](lesson2.pdf)
 
 ## Практикум
 
@@ -132,7 +132,7 @@ There is some text missing from this line.
      указываем кодировку для ruby).
 
   5. Сохраните файл с помощью `:w`.
-   
+
   6. Перейдите к следующему файлу выполнив `:bn`.
 
   7. Остановите запись макроса `q`.

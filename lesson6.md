@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Учимся бегать | Часть 1](https://www.dropbox.com/s/a3rz0ogyzon57oc/Vim.%20Learn%20to%20run%20%7C%20Part%201.pdf?dl=0)
+[Учимся бегать | Часть 1](lesson6.pdf)
 
 ## Практикум
 

@@ -2,7 +2,7 @@
 
 ## Презентация
 
-[Vim. Учимся ходить. Часть 2](https://www.dropbox.com/s/bp7z89tsf0w2kbt/Vim.%20Learn%20to%20walk%20%7C%20Part%202.pdf?dl=0)
+[Vim. Учимся ходить. Часть 2](lesson4.pdf)
 
 ## Практикум
 
